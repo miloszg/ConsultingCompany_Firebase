@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1012073373256",
+    "firebase_url": "https://consultingcompany-6f7bd.firebaseio.com",
+    "project_id": "consultingcompany-6f7bd",
+    "storage_bucket": "consultingcompany-6f7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012073373256:android:de2b8866991acc4c",
+        "android_client_info": {
+          "package_name": "com.milosz.consultingcompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012073373256-csqpgf99vdri45nj662phsd8mfu7grr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7lDx4xgGPF0o7WTfL4U8AAUFmqv423c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
